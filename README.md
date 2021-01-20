@@ -1,6 +1,6 @@
 <h1 align = "center" > <b>🎲 Pig game 🐖</b> </h1>
 <br>
-<img src = "diceGame.gif">
+<img src = "./diceGame.gif">
 <br><br>
 
 <h2>📄<u><b>Description:</b></u></h2>
@@ -9,7 +9,9 @@
     <p>Pig game is a dice game in which the first who scores 100 or more points, wins. In each turn, you can roll a dice until a number 1 is rolled (and you lose your turn) or you can hold your current score. 
     </p>
     <p>The game was developed in a challenge proposed in the Jonas Schmedtmann JavaScript Course
+    <p><a href = "https://pig-gameproject.netlify.app">Pig game</a></p>
     </p>
+
 </div>
 <br>
 <hr />
